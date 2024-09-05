@@ -25,7 +25,7 @@ nav a {
 }
 
 .welcome-screen {
-  background: url(photos/Myselfie.jpg);
+  background: url(Myselfie.jpg);
   background-position: center;
   height: 800px;
 }
